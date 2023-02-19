@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "reactjs_nodejs_motel_management_system",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "timezone": "+05:30",
+    "logging": false
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "reactjs_nodejs_motel_management_system",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "timezone": "+05:30",
+    "logging": false
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "reactjs_nodejs_motel_management_system",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "timezone": "+05:30",
+    "logging": false
+  }
+}
